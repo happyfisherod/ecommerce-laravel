@@ -1,0 +1,21 @@
+User-agent: *
+Disallow:
+
+Allow: /
+
+User-agent: *
+Disallow: /admin/
+Disallow: /ajax/
+Disallow: /assets/
+Disallow: /css/
+Disallow: /js/
+Disallow: /vendor/
+Disallow: /main.php
+Disallow: /mix-manifest.json
+
+
+Sitemap: https://car.hejwow.com/de/at/sitemaps.xml
+Sitemap: https://car.hejwow.com/de/de/sitemaps.xml
+Sitemap: https://car.hejwow.com/de/li/sitemaps.xml
+Sitemap: https://car.hejwow.com/de/lu/sitemaps.xml
+Sitemap: https://car.hejwow.com/de/ch/sitemaps.xml
